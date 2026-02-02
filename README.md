@@ -69,6 +69,7 @@ Pour tester les différents rôles :
 - Ajouter des flash messages (succès / erreur)  
 - Permettre de visiter le profil d’un autre utilisateur et voir sa collection  
 - Ajouter une section commentaires  
-- Ajouter une barre de recherche (personnage, classe, joueur…)  
+- Ajouter une barre de recherche (personnage, classe, joueur…)
+- Amélioration visuel
 
 
