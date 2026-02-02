@@ -2,7 +2,8 @@ La stack utilusée :
 
 - PHP
 - Architecture MVC
-- 
+- POO
+- PhpMyAdmin
 
 
 Les différentes étapes :
