@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Création de deck de combattants univers héroïque fantasy - PHP MVC POO
 
 Ce projet est une application web de création de deck (combinaison de cartes) inspiré des univers héroïque fantasy développée en PHP, en respectant une architecture MVC moderne et une logique orientée objet.
@@ -10,6 +11,16 @@ Ce projet est une application web de création de deck (combinaison de cartes) i
 - **PDO** (connexion sécurisée à la base de données)
 - **MySQL / PhpMyAdmin**
 - **HTML / CSS / JavaScript**
+=======
+# Projet PHP MVC POO
+
+## 🚀 Stack utilisée
+
+- **PHP**
+- **Architecture MVC**
+- **Programmation Orientée Objet (POO)**
+- **PhpMyAdmin** (gestion de la base de données)
+>>>>>>> 3ae65a2c1cecbfe592c74da7449df18d2154caeb
 
 ---
 
@@ -48,12 +59,15 @@ Pour tester les différents rôles :
 - Identifiant : `userMan`  
 - Mot de passe : `123`
 
+<<<<<<< HEAD
 ![Comptes utilisateurs crées en base de données](./public/images/ressources/creation_compte_bdd.png)
 
 ![Création des personnages remontés en base de données](./public/images/ressources/creation_perso_bdd.png)
 
 ![Création des sides](./public/images/ressources/creation_side_bdd.png)
 
+=======
+>>>>>>> 3ae65a2c1cecbfe592c74da7449df18d2154caeb
 > ⚠️ Tous les mots de passe sont hashés en base de données.  
 > Ces comptes sont uniquement destinés à la démonstration.
 
@@ -81,4 +95,10 @@ Pour tester les différents rôles :
 - Ajouter une section commentaires  
 - Ajouter une barre de recherche (personnage, classe, joueur…)
 - Pourvoir télécharger et ajouter ses propres images/photos
+<<<<<<< HEAD
 - Amélioration visuel
+=======
+- Amélioration visuel
+
+
+>>>>>>> 3ae65a2c1cecbfe592c74da7449df18d2154caeb
